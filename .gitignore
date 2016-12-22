@@ -8,3 +8,6 @@ __pycache__/
 __pycache__
 __pycache__/**
 app.db
+tmp
+tmp/
+tmp/**
